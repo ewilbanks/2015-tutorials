@@ -88,13 +88,7 @@ Well, you should be set if you're already using Linux
 
 We will spend most of our time using the shell to manipulate example data files.
 
-Open your browser. In the address bar, enter
-
-```
-https://s3.amazonaws.com/edamame/EDAMAME_16S.tar.gz
-```
-
-Create a folder named `tutorial_shell` and place the EDAMAME_16S.tar.gz file there. We'll come back to it using the shell in just a minute.
+Open your terminal that's ssh'd into your running EC2 machine on AWS.  You've already put some files in here using the commands on the intro tutorial page...
 
 ## Moving around the file system
 
